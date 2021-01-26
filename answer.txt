@@ -1,0 +1,3 @@
+"What does a title attribute do?"
+- Adds additional information 
+- Can be shown when the mouse hovers over the element 
